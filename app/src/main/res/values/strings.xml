@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ItProgerApp</string>
+    <string name="label_text">ItAndroidApp</string>
+    <string name="button_text">Calculate</string>
+    <string name="number_field1">Number 1</string>
+    <string name="number_field2">Number 2</string>
+    <string name="result">Result</string>
 </resources>
